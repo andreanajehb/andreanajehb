@@ -15,7 +15,6 @@ Building scalable software with modern technologies.
 - 💼 Full Stack Software Developer
 - 🌎 Based in Honduras
 - 💻 Passionate about backend development and software architecture
-- 🚀 Currently expanding my experience with React, Flutter and Kubernetes
 - 📚 Always learning something new
 
 ---
