@@ -74,4 +74,4 @@ Building scalable software with modern technologies.
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn *(Coming soon)*
+- 💼 LinkedIn 
